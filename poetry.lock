@@ -77,13 +77,6 @@ category = "main"
 optional = false
 python-versions = "*"
 
-[[package]]
-name = "cffi"
-version = "1.14.6"
-description = "Foreign Function Interface for Python calling C code."
-category = "main"
-optional = false
-python-versions = "*"
 
 [package.dependencies]
 pycparser = "*"
