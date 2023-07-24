@@ -270,7 +270,7 @@ python-versions = ">=3.6.1"
 cfgv = ">=2.0.0"
 identify = ">=1.0.0"
 nodeenv = ">=0.11.1"
-pyyaml = ">=5.1"
+pyyaml = ">=6.0.1"
 toml = "*"
 virtualenv = ">=20.0.8"
 
